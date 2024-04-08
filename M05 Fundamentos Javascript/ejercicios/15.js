@@ -3,7 +3,7 @@ function menosQueNoventa(num) {
   // De lo contrario, retorna false.
   // Tu código:
 
-  var numero = (num);
+  
 
   if (num < 90) {
     return true;
